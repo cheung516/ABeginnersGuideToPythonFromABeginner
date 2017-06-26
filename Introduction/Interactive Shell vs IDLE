@@ -1,0 +1,26 @@
+After you download Python, there will be two programs that you are going to get familiar with. Interactive Shell and IDLE.
+
+1) Interactive Shell (a.k.a Python Command Prompt)
+
+- you can execute code line by line and watch the magic happen. Go on type 2+2 and see the program turn into a calculator.
+
+2) IDLE
+
+- most of the time, we would want to write codes in chucks (as opposed to line by line). Meet IDLE, pythons own "notepad or MS Word". In IDLE you can write lines upon lines of code (just like writing an essay... yes ewww).
+- these lines of code gets "executed" by Python and that's how you tell the computer what to do e.g. if you want to set it on fire, you would type something like..
+
+Computer.selfDestruct()
+
+I'm just joking...
+
+- IDLE is where you can stratch you creative mind and tell the computer to do extraordinary stuff.. think after apps, AI, websites like Github... Literally sky is the limit!
+
+What about this thing called IDE? Is it the same as IDLE?
+
+No, although IDE is still where you can develop codes, they are more feature rich and include extra supports and customization options. You will not need them for now but if you are curios, go ahead and experiment with them. Some of the more popular ones are PyCharm, VS Code, Wing IDE.
+
+And what about this thing called Text Editor?
+
+You text editors are like your IDLE, except again they have more features and look way cooler! Would highly recommend you to give them a try before going into a full IDE. Some popular ones are Sublime Text 3, Atom, Vim and Emacs although I would recommend the first 2.
+
+That's enough for this tutorial, now lets get to work...
